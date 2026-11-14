@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日新闻播客</title>
+    <link>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml</link>
+    <atom:link href="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每天早上根据《泰晤士报》中文晨报生成的普通话新闻播客，仅供个人收听。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 14 Nov 2026 06:55:29 +0000</lastBuildDate>
+    <itunes:author>Jeremy Woo</itunes:author>
+    <itunes:owner><itunes:name>Jeremy Woo</itunes:name></itunes:owner>
+    <itunes:image href="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/cover.jpg"/>
+    <image><url>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/cover.jpg</url><title>每日新闻播客</title><link>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>2026年11月14日 泰晤士报要闻</title>
+      <description>2026年11月14日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：美国全境航班一度暂停起飞；警方调查沃廉姆斯性犯罪指控；微软故障暴露英国数字依赖；保守党要求限制学生使用屏幕；皮丁顿村民准备继续挑战庇护营地；前哈马斯领袖保镖或从英国引渡；费尔福德基地阴谋案嫌疑人被剥夺国籍；米尔本拟按学生就业结果评价学校；伯纳姆同时迎战福利与脱欧难题；戈夫支持反对重返欧盟的运动；法拉奇推出新国防发言人；前特种部队指挥官担忧AI识别调查证人。</description>
+      <itunes:summary>2026年11月14日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：美国全境航班一度暂停起飞；警方调查沃廉姆斯性犯罪指控；微软故障暴露英国数字依赖；保守党要求限制学生使用屏幕；皮丁顿村民准备继续挑战庇护营地；前哈马斯领袖保镖或从英国引渡；费尔福德基地阴谋案嫌疑人被剥夺国籍；米尔本拟按学生就业结果评价学校；伯纳姆同时迎战福利与脱欧难题；戈夫支持反对重返欧盟的运动；法拉奇推出新国防发言人；前特种部队指挥官担忧AI识别调查证人。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-14.mp3" length="41358012" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:57:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026年11月13日 泰晤士报要闻</title>
+      <description>2026年11月13日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：雷纳动用紧急权力，批准皮丁顿庇护营地；又有六名女性指控罗素·布兰德；财政部预计上万业主将赢得“豪宅税”申诉；未成年犯罪记录有望“清零”；诱奸团伙案吹哨人痛批政府对调查报告的回应；两名伊朗人在英为德黑兰从事间谍活动罪名成立；伯纳姆在都柏林反驳卡梅伦的欧洲论；唐宁街将支持福利大改革；英伟达掌门人黄仁勋因三段婚外情辞职；特写：“芯片之王”的陨落；“中国AI公司获许诺供应顶级芯片”；评论｜Cindy Yu：这不只是一桩“美人计”。</description>
+      <itunes:summary>2026年11月13日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：雷纳动用紧急权力，批准皮丁顿庇护营地；又有六名女性指控罗素·布兰德；财政部预计上万业主将赢得“豪宅税”申诉；未成年犯罪记录有望“清零”；诱奸团伙案吹哨人痛批政府对调查报告的回应；两名伊朗人在英为德黑兰从事间谍活动罪名成立；伯纳姆在都柏林反驳卡梅伦的欧洲论；唐宁街将支持福利大改革；英伟达掌门人黄仁勋因三段婚外情辞职；特写：“芯片之王”的陨落；“中国AI公司获许诺供应顶级芯片”；评论｜Cindy Yu：这不只是一桩“美人计”。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-13.mp3" length="39175951" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:54:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026年11月12日 泰晤士报要闻</title>
+      <description>2026年11月12日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：米尔本：削减青年病残福利，推动年轻人就业；教育大臣鲍威尔：为“尼特族”下调英语和数学课时门槛；财政大臣希利：内阁支持希思罗第三跑道；前首相卡梅伦：重新加入欧盟“漫长而痛苦”；首相伯纳姆支持人口普查增设“黑人英格兰人”“亚裔英格兰人”选项；费尔福德基地案：嫌疑人曾“谈到枪”；从“老狐狸”到“小撒旦”：德黑兰对英国的执念；格洛斯特郡美军士兵涉嫌为俄从事间谍活动被捕；前国家安全顾问塞德维尔：英国应对俄罗斯主动出击；英伟达“间谍疑云”：CEO被曝与公司高管有染，特朗普政府也被卷入；被控为中国从事间谍活动后获判无罪的英国人：我只是“替罪羊”；日产季度利润暴跌96%，中国销量大幅下滑。</description>
+      <itunes:summary>2026年11月12日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：米尔本：削减青年病残福利，推动年轻人就业；教育大臣鲍威尔：为“尼特族”下调英语和数学课时门槛；财政大臣希利：内阁支持希思罗第三跑道；前首相卡梅伦：重新加入欧盟“漫长而痛苦”；首相伯纳姆支持人口普查增设“黑人英格兰人”“亚裔英格兰人”选项；费尔福德基地案：嫌疑人曾“谈到枪”；从“老狐狸”到“小撒旦”：德黑兰对英国的执念；格洛斯特郡美军士兵涉嫌为俄从事间谍活动被捕；前国家安全顾问塞德维尔：英国应对俄罗斯主动出击；英伟达“间谍疑云”：CEO被曝与公司高管有染，特朗普政府也被卷入；被控为中国从事间谍活动后获判无罪的英国人：我只是“替罪羊”；日产季度利润暴跌96%，中国销量大幅下滑。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-12.mp3" length="38823612" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:53:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026年11月11日 泰晤士报要闻</title>
+      <description>2026年11月11日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：HMRC 将拍摄200万英镑豪宅；沃利亚姆斯被指控侵犯15岁少女；布兰德案后警方接获更多举报；内阁就放宽电动车指标意见分裂；福利开支是就业支持的50倍；巨型太阳能电站在牛津郡被否决；东北部政界人士请国防大臣斯特里廷把 Skynet 合同给洛克希德；左翼新闻网络获25万英镑政府资助；提前释放计划下，家暴受害者再陷恐惧；研究：中年“肥胖者”三分之二可能是健康的；阿富汗翻译员中枪后被国防部拒赔；餐馆老板与妹妹被控用吗啡杀死百岁母亲。</description>
+      <itunes:summary>2026年11月11日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：HMRC 将拍摄200万英镑豪宅；沃利亚姆斯被指控侵犯15岁少女；布兰德案后警方接获更多举报；内阁就放宽电动车指标意见分裂；福利开支是就业支持的50倍；巨型太阳能电站在牛津郡被否决；东北部政界人士请国防大臣斯特里廷把 Skynet 合同给洛克希德；左翼新闻网络获25万英镑政府资助；提前释放计划下，家暴受害者再陷恐惧；研究：中年“肥胖者”三分之二可能是健康的；阿富汗翻译员中枪后被国防部拒赔；餐馆老板与妹妹被控用吗啡杀死百岁母亲。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-11.mp3" length="42783670" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:59:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026年11月10日 泰晤士报要闻</title>
+      <description>2026年11月10日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：布兰德被判入狱十年半；杰迈玛·戈德史密斯：我曾受虐，为儿子沉默多年；妇女与平等事务大臣菲利普森：辩护律师言论可耻；英伟达市值蒸发2000亿美元，国会要求问询黄仁勋；丑闻让对华芯片销售成为焦点；斯宾塞分析：习近平的“混乱特工”是大规模分散注意力的武器；人物：AI大亨的“2000亿美元婚外情”；梅拉妮·菲利普斯：英国须顶住道德勒索；保守党领袖巴德诺赫拟拒七成新增儿童残疾津贴申请；内阁秘书罗密欧：公务员体系须“重新赢回”公众信任；电动车指标或下调四分之一；智库：伦敦新房价格一半以上来自税费与管制。</description>
+      <itunes:summary>2026年11月10日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：布兰德被判入狱十年半；杰迈玛·戈德史密斯：我曾受虐，为儿子沉默多年；妇女与平等事务大臣菲利普森：辩护律师言论可耻；英伟达市值蒸发2000亿美元，国会要求问询黄仁勋；丑闻让对华芯片销售成为焦点；斯宾塞分析：习近平的“混乱特工”是大规模分散注意力的武器；人物：AI大亨的“2000亿美元婚外情”；梅拉妮·菲利普斯：英国须顶住道德勒索；保守党领袖巴德诺赫拟拒七成新增儿童残疾津贴申请；内阁秘书罗密欧：公务员体系须“重新赢回”公众信任；电动车指标或下调四分之一；智库：伦敦新房价格一半以上来自税费与管制。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-10.mp3" length="7009604" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:09:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026年11月9日 泰晤士报要闻</title>
+      <description>2026年11月9日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：布兰德案后，广播机构或被强制接受反虐待保障；BBC曾因暴露事件禁止布兰德进入洛杉矶办公室；利比·珀维斯：布兰德是这个时代扭曲的象征；两万名外国罪犯持驱逐令仍留在英国社区；乌克兰人担心永居改革下被要求离开；读者来信：请为临近定居者设过渡保护；研究：英国人反移民更多关乎经济而非身份；周六363人乘五艘小艇横渡英吉利海峡；惠特利：“病网红”推高福利申领；“红墙”议员警告：签约欧盟规则会激怒工党选区；卡梅伦与48名专家敦促NHS提供新阿尔茨海默病药物；英军“猎杀部队”出境先发制人反网攻。</description>
+      <itunes:summary>2026年11月9日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：布兰德案后，广播机构或被强制接受反虐待保障；BBC曾因暴露事件禁止布兰德进入洛杉矶办公室；利比·珀维斯：布兰德是这个时代扭曲的象征；两万名外国罪犯持驱逐令仍留在英国社区；乌克兰人担心永居改革下被要求离开；读者来信：请为临近定居者设过渡保护；研究：英国人反移民更多关乎经济而非身份；周六363人乘五艘小艇横渡英吉利海峡；惠特利：“病网红”推高福利申领；“红墙”议员警告：签约欧盟规则会激怒工党选区；卡梅伦与48名专家敦促NHS提供新阿尔茨海默病药物；英军“猎杀部队”出境先发制人反网攻。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-09.mp3" length="6902326" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:09:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
