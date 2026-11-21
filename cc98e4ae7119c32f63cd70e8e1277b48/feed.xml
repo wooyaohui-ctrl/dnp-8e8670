@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日新闻播客</title>
+    <link>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml</link>
+    <atom:link href="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每天早上根据《泰晤士报》中文晨报生成的普通话新闻播客，仅供个人收听。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 21 Nov 2026 08:22:53 +0000</lastBuildDate>
+    <itunes:author>Jeremy Woo</itunes:author>
+    <itunes:owner><itunes:name>Jeremy Woo</itunes:name></itunes:owner>
+    <itunes:image href="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/cover.jpg"/>
+    <image><url>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/cover.jpg</url><title>每日新闻播客</title><link>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>2026年11月21日 泰晤士报要闻</title>
+      <description>2026年11月21日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：伯纳姆首相布鲁塞尔签下“对欧重启”协议，盟友透露：伯纳姆“决心重新入欧”；峰会内幕：欧盟大使深夜“设伏”，学费问题成谈判筹码；一图看懂伯纳姆对欧协议：谁是赢家，谁是输家；法拉奇：青年流动计划对大企业有利，对英国打工者不利；议会速写：伯纳姆布鲁塞尔之行，“转折点”与追尾的笑话；弗雷泽·纳尔逊：在这个时候重启脱欧辩论，真是奇怪；土耳其安塔利亚Cop31气候大会删去化石燃料，被斥“史上最差”；俄罗斯导弹落在英军演习地附近：斯特里廷称或为蓄意挑衅；独家：俄军舰在埃塞克斯外海加油时相撞，无线电录音曝出舰上一片混乱；摩根大通掌门人戴蒙要“回敬”英国银行税；财政研究所警告，简化个人独立补贴申请将推高福利开支；黎曼猜想167年后“被解”：人工智能与人类数学家几小时内先后宣称证明。</description>
+      <itunes:summary>2026年11月21日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：伯纳姆首相布鲁塞尔签下“对欧重启”协议，盟友透露：伯纳姆“决心重新入欧”；峰会内幕：欧盟大使深夜“设伏”，学费问题成谈判筹码；一图看懂伯纳姆对欧协议：谁是赢家，谁是输家；法拉奇：青年流动计划对大企业有利，对英国打工者不利；议会速写：伯纳姆布鲁塞尔之行，“转折点”与追尾的笑话；弗雷泽·纳尔逊：在这个时候重启脱欧辩论，真是奇怪；土耳其安塔利亚Cop31气候大会删去化石燃料，被斥“史上最差”；俄罗斯导弹落在英军演习地附近：斯特里廷称或为蓄意挑衅；独家：俄军舰在埃塞克斯外海加油时相撞，无线电录音曝出舰上一片混乱；摩根大通掌门人戴蒙要“回敬”英国银行税；财政研究所警告，简化个人独立补贴申请将推高福利开支；黎曼猜想167年后“被解”：人工智能与人类数学家几小时内先后宣称证明。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-21.mp3" length="12941071" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:17:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
