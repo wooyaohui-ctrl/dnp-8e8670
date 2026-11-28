@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日新闻播客</title>
+    <link>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml</link>
+    <atom:link href="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每天早上根据《泰晤士报》中文晨报生成的普通话新闻播客，仅供个人收听。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Nov 2026 09:21:18 +0000</lastBuildDate>
+    <itunes:author>Jeremy Woo</itunes:author>
+    <itunes:owner><itunes:name>Jeremy Woo</itunes:name></itunes:owner>
+    <itunes:image href="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/cover.jpg"/>
+    <image><url>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/cover.jpg</url><title>每日新闻播客</title><link>https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/feed.xml</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>2026年11月28日 泰晤士报要闻</title>
+      <description>2026年11月28日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：。</description>
+      <itunes:summary>2026年11月28日普通话新闻播客，根据当天《泰晤士报》要闻整理。今日要闻：。</itunes:summary>
+      <enclosure url="https://wooyaohui-ctrl.github.io/dnp-8e8670/cc98e4ae7119c32f63cd70e8e1277b48/ep/2026-11-28.mp3" length="12500647" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-news-podcast-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:17:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
